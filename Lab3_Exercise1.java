@@ -29,6 +29,8 @@ class Lab3_Exercise1{
         for(Student studentI : student){
             studentI.displayInfo();
         }
+
+        kbd.close();
     }
 }
 
